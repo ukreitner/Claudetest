@@ -1,0 +1,9 @@
+Hello from Claude Code!
+
+This is a test file created to demonstrate:
+- Creating files
+- Committing changes
+- Pushing to a feature branch
+
+Current timestamp: 2025-12-25
+Branch: claude/test-new-feature-hBJ3W
